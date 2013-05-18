@@ -1,0 +1,2 @@
+This is where all the engine's data that must be read from disk lives. Things
+like meshes, images, audio, config files, and scripts, for example.

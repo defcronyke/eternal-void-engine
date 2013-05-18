@@ -3,5 +3,9 @@
 
 # Except
 !.gitignore
+!include
 !include/*
+!src/
 !src/*
+!data/
+!data/*
