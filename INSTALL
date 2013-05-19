@@ -1,0 +1,18 @@
+Eternal Void Engine Installation Instructions
+=============================================
+
+Currently only Linux x86_64 is supported, but this software is made using
+cross-platform technologies, so other platforms will be supported in the future.
+
+Linux:
+	Compile:
+		$ mkdir build
+		$ cd build
+		$ cmake ..
+		$ make
+		$ ./eternal-void-engine
+
+	Optional Install (NOT IMPLEMENTED YET!!):
+		$ sudo make install
+		$ cd ~
+		$ eternal-void-engine

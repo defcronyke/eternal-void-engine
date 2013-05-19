@@ -9,3 +9,8 @@
 !src/*
 !data/
 !data/*
+!CMakeLists.txt
+!INSTALL
+!LICENSE
+!README
+!README.md
